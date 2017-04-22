@@ -3,8 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{966C44A8-CDF9-48C2-929B-6A3C93F2405A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BB.Application", "BB.Application\BB.Application.csproj", "{D1EF0F42-6F8A-4269-9536-CDF145388B9A}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1EF0F42-6F8A-4269-9536-CDF145388B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1EF0F42-6F8A-4269-9536-CDF145388B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1EF0F42-6F8A-4269-9536-CDF145388B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1EF0F42-6F8A-4269-9536-CDF145388B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D1EF0F42-6F8A-4269-9536-CDF145388B9A} = {966C44A8-CDF9-48C2-929B-6A3C93F2405A}
 	EndGlobalSection
 EndGlobal
