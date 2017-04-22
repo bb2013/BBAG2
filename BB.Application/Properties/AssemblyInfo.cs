@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BB.Presentation")]
+[assembly: AssemblyTitle("BB.Application")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("EMERSON")]
-[assembly: AssemblyProduct("BB.Presentation")]
+[assembly: AssemblyProduct("BB.Application")]
 [assembly: AssemblyCopyright("Copyright © EMERSON 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("aa006945-a10b-493b-99f5-c704e59da3e3")]
+[assembly: Guid("d1ef0f42-6f8a-4269-9536-cdf145388b9a")]
 
 // Version information for an assembly consists of the following four values:
 //
